@@ -32,14 +32,14 @@ body {
 }
 
 .icono {
-    background-color: #5bc0de;
+    background-color: #de685b;
     padding-bottom: .5rem;
     text-align: center;
 
 }
 
 #destacados .card {
-    background-color: #5bc0de;
+    background-color: #de685b;
     color: white;
 }
 
@@ -54,7 +54,7 @@ body {
 }
 
 #footer {
-    background-color: #5bc0de;
+    background-color: #de685b;
     color: white;
 }
 
